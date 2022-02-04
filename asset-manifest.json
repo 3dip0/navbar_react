@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/3dip0/navbar_react/static/css/main.f947e3fd.chunk.css",
+    "main.js": "/3dip0/navbar_react/static/js/main.d7d6b047.chunk.js",
+    "main.js.map": "/3dip0/navbar_react/static/js/main.d7d6b047.chunk.js.map",
+    "runtime-main.js": "/3dip0/navbar_react/static/js/runtime-main.9d418202.js",
+    "runtime-main.js.map": "/3dip0/navbar_react/static/js/runtime-main.9d418202.js.map",
+    "static/js/2.ebc2d3f9.chunk.js": "/3dip0/navbar_react/static/js/2.ebc2d3f9.chunk.js",
+    "static/js/2.ebc2d3f9.chunk.js.map": "/3dip0/navbar_react/static/js/2.ebc2d3f9.chunk.js.map",
+    "index.html": "/3dip0/navbar_react/index.html",
+    "precache-manifest.b294d5f5af76b25b70516d20812bd5b6.js": "/3dip0/navbar_react/precache-manifest.b294d5f5af76b25b70516d20812bd5b6.js",
+    "service-worker.js": "/3dip0/navbar_react/service-worker.js",
+    "static/css/main.f947e3fd.chunk.css.map": "/3dip0/navbar_react/static/css/main.f947e3fd.chunk.css.map",
+    "static/js/2.ebc2d3f9.chunk.js.LICENSE.txt": "/3dip0/navbar_react/static/js/2.ebc2d3f9.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/3dip0/navbar_react/static/media/logo.1185e868.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9d418202.js",
+    "static/js/2.ebc2d3f9.chunk.js",
+    "static/css/main.f947e3fd.chunk.css",
+    "static/js/main.d7d6b047.chunk.js"
+  ]
+}
